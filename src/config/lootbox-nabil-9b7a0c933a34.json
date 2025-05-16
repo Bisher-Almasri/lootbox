@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lootbox-nabil",
+  "private_key_id": "9b7a0c933a34bcc3393c9460621e2e30717234eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAH+A1kNEZzArL\nDLSoEfvCcGQDakhU0IA7+oXtaQ3r7tDmtiLgqQpDU8errdj4H2m6wu+k1xSYIAt+\nN6NkG7xOJGugFwzZaVgTXvAiiU5Z7gmIFYBUPIyRT8t06JZ83bPjjmLlr2vpx947\n7v23l9JoC7q/91e/gxsqsPq+PY/MvRoIQQi3Ruuqrq7sw8OG/gjOvtwuqDlw47jd\nOGvCQKVXPgIi2WKfieUsKVt9LnlJ/5rqoukedYIGFZbniersHD+D4iNIeO0xpV78\nQNbBh9ijLsJ6POHl/jXNWzKoB1RqQTaWhNibTVfPUTBI1d41E9Bb9ITlosL8Ynur\n2KBCqn9LAgMBAAECggEAHIzgGbWyjR3YQMJbmlpJymQ/SI6jvw7Y75DUFCq3aecs\nXgyU9EPKhaTOmEGWa5Dnelx7lkhsBAtHCfOksTy55/bbk4e5XhmcgAxsrQUwgoaw\nHevsDRiOXw23k2D49AdSMy+2nKFL7QrJiKiERaMnHlUX5G0SOiB2igqQyHKHiwoQ\nfsHVdI+uHGRUjuLpZ4MdDaQLNf8A/Kkrz5HEB+BLgw2wpVIfDlmK582vx9BEJQ0b\nhT6ljulJZr+DcxszJMoOqRlSK97N9q44wvMiGSQqs7OEqYrVy3+OkzL9rcvgYWUZ\nokbyg/uIBAsgzCzBPFml4QefjMyVTP4vX5up995LWQKBgQD8FJywWTuBxFwldO7s\nXXKudkH/zoIDOjs+uwtoWY7LdKHVzbbrbhxH9Rvub767o4dYUgO7KfbrUqYNECff\n9BlUL7PqjaCBoVRme1zmGPZaOZ2bxP4WsRKXEhCtxBkM/Xv4qX7W2jV3CaiaomeK\nyIeVEuwSrb8lso72X7HmkbxuTQKBgQDDHJ0Be0VoyzW6kJSdsJaq1w124k/tnsXn\ns11qnhK7OfrI3aTwkdskNhB1trev13yVEpWyByKoeCmw8E+3Auoy0qSvkGuZqCBo\noqT70qU2ZFtIEDwNGN0pKRK3jJgHnxh9NnpNRqbLn3zFFqhu/s53aPUVmfV8fpiN\nKZWIQmPf9wKBgBFzd9l5g/Ya2uo46yVv3rWXOEB2UmfYyysvlb2WnZ0WKPH9ONGZ\noNmWbWWXVNP2oTMLEnkNkat+4EH9QVVut6YtWz48qcTvn0Es/yRqy/s5C+ExxQlb\nHtdYh9EPx1Av6Doxubc0CgmAoKx728Eu2rwGQFOWtantb5o8y7sTkcDtAoGAJKIt\ntIaBrMBi0SmuTcFHOMJyC71IRpRGEk/yHT+awr6LIMXE30pze+QOyRtKd+CcypyX\nsLp4Pmt5YHhuby1D7dDxDOmv2kTf+OV41rNhQ8op/WjW7Zqag8zrb70dGmk7vt7I\nrdOzI45JbfPoIhcDixYQ1kJ2/i4C1JZXNiNI/1cCgYEAsAjrarkWUhAAT5ItbHZh\n+tgE9r0GlmKpamS0TrdQyic0swNvYRUK4K38B8XpT1GS1RykeeCtcmzYCGlW5E7a\nbiWr+a8SCbS6tUpE1WF4wh8ctHeh7aTJKgM5czOdRXgKDt7lIRrQzUmt1jId0Qzh\nA7YUvMzcwB3QifC9zblCKxk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lootbox@lootbox-nabil.iam.gserviceaccount.com",
+  "client_id": "106280563070110516968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lootbox%40lootbox-nabil.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
